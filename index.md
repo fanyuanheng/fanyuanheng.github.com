@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Yuan Heng Fan's Blog
 tagline: Supporting tagline
 ---
 
